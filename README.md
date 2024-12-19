@@ -1,1 +1,1 @@
-# tic-tac-toe
+Simplistic Tic Tac Toe game with various difficulties.
